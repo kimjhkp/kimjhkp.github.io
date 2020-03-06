@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+        name: John J.H Kim
+        tagline: Immunologist. Biomedical Data Scientist
+        date_format: "%b %-d, %y"
+
+        social_links:
+                github: kimjhkp
+                linkedIn: in/kimjhk
+
