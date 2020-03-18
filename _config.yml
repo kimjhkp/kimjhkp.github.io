@@ -2,7 +2,7 @@ remote_theme: thelehhman/plainwhite-jekyll
 
 plainwhite:
         name: John J.H Kim
-        tagline: Immunologist. Biomedical Data Scientist
+        tagline: Scientist
         date_format: "%b %-d, %y"
 
         social_links:

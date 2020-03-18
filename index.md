@@ -2,40 +2,38 @@
 layout: page
 ---
 
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/kimjhkp/kimjhkp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ __Flu immunologist__ and __computational biologist__.  
 
-### Markdown
+I have used various computational and statistical tools to understand and answer research questions in immunology and infectious diseases.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have participated in many different research projects involving bench-side animal research to computational genomic projects. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+During my last project, I worked in an interdisciplinary team environment where
+scientists with different skill sets (including physicists and biologist) worked together to achieve a common goal.
 
-- Bulleted
-- List
+## My passion
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+Coming from an infectious disease biology background, I have a vast interest in global prevention of infections. Due to the fast growing nature of human population, the risk of zoonosis is increasing rapdily. 
 
-[Link](url) and ![Image](src)
-```
+I am passionate to be engaged in a scientific program where data-driven approach can be utilized to understand global infectious diseases and facilitate a development of vaccines.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I highly value an interdisciplinary environment and believe in effective communication for better collaboration. 
 
-### Jekyll Themes
+[ Also a hobby programmer / developer : ) ]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimjhkp/kimjhkp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Previous projects
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. __Influenza:__ Understanding the progress of symptomatic and asymptomatic influenza infections using a data-driven approach utilizing single-cell RNA-seq and advanced 3D tissue imaging
+
+2. __Influenza vaccines:__ Understanding how and why individuals respond to influenza vaccines differently by utilizing human transcriptome data. 
+
+3. __Lung fibrosis__: Utilizing an intravital imaging to understand how immune cells in the lung are regulated in homeostasis to prevent a spontaneous formation of lung fibrosis.
