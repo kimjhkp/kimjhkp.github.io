@@ -2,7 +2,6 @@
 layout: page 
 ---
 
-<<<<<<< HEAD
 ## About me
 
 ---
@@ -38,9 +37,5 @@ I highly value an interdisciplinary environment and believe in effective communi
 2. __Influenza vaccines:__ Understanding how and why individuals respond to influenza vaccines differently by utilizing human transcriptome data. 
 
 3. __Lung fibrosis__: Utilizing an intravital imaging to understand how immune cells in the lung are regulated in homeostasis to prevent a spontaneous formation of lung fibrosis.
-=======
-   You can use the [editor on GitHub](https://github.com/kimjhkp/kimjhkp.github.io/edit/master/index.md) to maintain
 
 
-
->>>>>>> origin/master
