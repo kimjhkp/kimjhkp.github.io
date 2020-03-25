@@ -13,7 +13,7 @@ I use various computational and statistical tools to understand and answer resea
 During my last project, I worked in an interdisciplinary team environment where
 scientists with different skill sets (including physicists and biologist) worked together to achieve a common goal.
 
-## My passion
+## My passion :sun_with_face:
 
 ---
 
@@ -25,7 +25,7 @@ I highly value an interdisciplinary environment and believe in effective communi
 
 [ Also a hobby programmer / developer : ) ]
 
-## Previous projects
+## Previous projects :file_folder:
 
 ---
 
