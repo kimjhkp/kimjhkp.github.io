@@ -2,13 +2,13 @@
 layout: page 
 ---
 
-## About me
+## About me :microscope:
 
 ---
 
  __Flu immunologist__ and __computational biologist__.  
 
-I have used various computational and statistical tools to understand and answer research questions in immunology and infectious diseases and participated in many different research projects including bench-side animal research to computational genomic projects. 
+I use various computational and statistical tools to understand and answer research questions in immunology and infectious diseases and participated in many different research projects including bench-side animal research to computational genomics projects. 
 
 During my last project, I worked in an interdisciplinary team environment where
 scientists with different skill sets (including physicists and biologist) worked together to achieve a common goal.
