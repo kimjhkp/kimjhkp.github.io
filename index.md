@@ -8,7 +8,7 @@ layout: page
 
  __Flu immunologist__ and __computational biologist__.  
 
-I use various computational and statistical tools to understand and answer research questions in immunology and infectious diseases and participated in many different research projects including bench-side animal research to computational genomics projects. 
+I use various computational / statistical tools to understand and answer research questions in immunology and infectious diseases. Research projects I participated in the past are highly diverse and include benchside animal research to computational genomics projects. 
 
 During my last project, I worked in an interdisciplinary team environment where
 scientists with different skill sets (including physicists and biologist) worked together to achieve a common goal.
@@ -17,13 +17,10 @@ scientists with different skill sets (including physicists and biologist) worked
 
 ---
 
-Coming from an infectious disease biology background, I have a vast interest in global prevention of infections. Due to the fast growing nature of human population, the risk of zoonosis is increasing rapdily. 
-
-I am passionate to be engaged in a scientific program where data-driven approach can be utilized to understand global infectious diseases and facilitate a development of vaccines.
+Coming from an infectious disease biology background, I have a vast interest in global prevention of infections. Due to the fast growing nature of human population, the risk of zoonosis is increasing rapdily. Thus, I am passionate to be engaged in a scientific program where data-driven approach can be utilized to understand global infectious diseases and facilitates a development of vaccines.
 
 I highly value an interdisciplinary environment and believe in effective communication for better collaboration. 
 
-[ Also a hobby programmer / developer : ) ]
 
 ## Previous projects
 
